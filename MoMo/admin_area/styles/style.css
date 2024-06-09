@@ -1,0 +1,95 @@
+   
+
+
+/*  THIS CODE I COPIED FROM https://meyerweb.com/eric/tools/css/reset/  
+   - this code is used to reset the default styles applied on the webpages. */  
+
+
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	/*font-size: 100%;
+	font: inherit;*/
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+
+
+
+
+
+ body{
+	background:#101223;
+	font-family: 'Poppins', sans-serif;
+}
+
+
+#header
+{
+	width: auto;
+	height: 100px;
+	color: rgb(255, 255, 255);
+	text-align: center;
+	padding: 30px;
+    
+}
+
+#left
+{
+	width: 80%;
+	height: auto;
+	float: center;
+}
+
+#right
+{
+	padding: 9px;
+	text-align: center;
+	width: 20%;
+	height:auto;
+	float: right;
+	font-family: 'Poppins', sans-serif;
+}
+
+#right a
+{
+	text-decoration: none;
+	text-align: center;
+	color: white;
+	font-size: 20px;
+	font-family: 'Poppins', sans-serif;
+	margin: 6px;
+	display: block;	
+	padding: 6px;
+}
+
+  #right a:hover
+          {   /* when someone points the cursor */
+           color: rgb(255, 0, 0);
+           font-weight: bolder;
+           text-decoration: none; /* adding underline*/
+          }
+
+          
