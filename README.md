@@ -1,2 +1,2 @@
 # MoMo
-I create a full stack e-commerce web application to do online shopping with an admin panel using PHP, HTML, CSS & MySQL. Customers can register on the website, search, and buy cool gadgets items.
+Developed a comprehensive full-stack e-commerce web application designed for online shopping. The platform includes both user and admin functionalities. Key features include User signup, login and profile management, intuitive search functionality allowing users to easily find products, integrated shopping cart and secure checkout system, admin dashboard for managing products, orders, and users, providing full control over the e-commerce platform.
